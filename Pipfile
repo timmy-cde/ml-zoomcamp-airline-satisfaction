@@ -16,6 +16,7 @@ cloudpickle = "*"
 flask = "*"
 gunicorn = "*"
 openpyxl = "*"
+pyarrow = "*"
 
 [dev-packages]
 
